@@ -1,6 +1,6 @@
 package JavaPrograms;
 
-public class FirstClass {
+public class PrintDuplicate {
 
 	public static void main(String[] args) {
 		String a[]= {"cat","dog","mouse","cat","pig","tiger","dog"};
